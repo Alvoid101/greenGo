@@ -1,5 +1,8 @@
 # GreenGo
 
+## Video explicativo
+[![Explicacion](image.png)](https://www.youtube.com/shorts/zt_18OUlSeM)
+haz clic en la imagen para poder la app en funcionamiento
 ## Descripción
 
 **GreenGo Logistics** es una aplicación móvil diseñada para coordinar repartidores en bicicleta para entregas sostenibles en la ciudad. La app resuelve el problema real de la gestión manual de entregas, permitiendo a los repartidores reportar entregas completadas y a los supervisores monitorear el progreso en tiempo real.
