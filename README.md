@@ -1,7 +1,9 @@
 # GreenGo
 
 ## Video explicativo
+
 [![Explicacion](image.png)](https://www.youtube.com/shorts/zt_18OUlSeM)
+
 haz clic en la imagen para poder la app en funcionamiento
 ## Descripción
 
